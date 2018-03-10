@@ -1,0 +1,17 @@
+.DS_Store
+
+bin/
+!data
+
+# Mac
+config.make
+*.xcodeproj
+Makefile
+openFrameworks-Info.plist
+Project.xcconfig
+*/.idea/*
+cmake-build-debug/
+CMakeLists.txt
+
+*.mov
+*.app
